@@ -1,0 +1,9 @@
+public with sharing class rawat {
+    public static void toNumberAdd(){
+        Integer a = 2;
+        Integer b = 2;
+        Integer c = 0;
+        c = a+b;
+        
+    }
+}
